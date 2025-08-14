@@ -1,2 +1,3 @@
 # Practical-Question-quiz-2
-Assignmnet for the web tech course at BCIT
+Assignment for the web tech course at BCIT
+I learned a lot in this program and specially from you Airrick, but for me the most important thing was that we have to learn to play in team. I call myself a team player but still I think we have to learn more and be able to work with different people with different abilities. we can learn from each other and teach others what we know and that is how we can grow.
